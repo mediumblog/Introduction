@@ -1,3 +1,3 @@
 # Introduction
-"This ia an Inroduction to GitHub"
+"Inroduction to GitHub"
 
